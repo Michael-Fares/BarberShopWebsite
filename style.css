@@ -65,6 +65,10 @@ footer a {
   background-color: white;
   color: #252525;
 }
+footer a:hover {
+  background-color: #252525;
+  color: white;
+}
 /* END STYLING FOR FOOTER ALL PAGES */
 
 .poller {
