@@ -1,0 +1,41 @@
+.keepintouch {
+  background-color: #252525;
+  text-align: center;
+  color: white;
+  font-family: 'Poller One', cursive;
+  margin: 2%;
+  padding: 1% 3%;
+}
+.title {
+  display: flex;
+  justify-content: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 0 15%;
+}
+input, textarea {
+  margin: 3%;
+  padding: 2%;
+  border: 2px solid #252525;
+  text-transform: uppercase;
+  text-align: center;
+}
+textarea {
+  resize: none;
+}
+
+.button {
+ color: white;
+ background-color: #252525;
+ margin: 3% auto 8% auto;
+ padding: 3% 4%;
+ font-family: "Arial Black", Gadget, sans-serif;
+}
+.button:hover {
+  color: #252525;
+  background-color: white;
+  outline: 1px solid #252525;
+}
